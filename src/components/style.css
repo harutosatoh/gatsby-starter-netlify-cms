@@ -19,3 +19,8 @@ body{
     opacity: 0.8;
    
 }
+
+.title {
+    background-color: #fff !important;
+    color:black;
+}
