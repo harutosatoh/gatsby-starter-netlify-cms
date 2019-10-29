@@ -1,0 +1,21 @@
+body{
+    overflow: hidden;
+}
+
+.navbar-brand, .navbar-menu{
+    background-color:black;
+}
+
+.navbar-burger{
+    color:white;
+}
+.navbar-item{
+    color:white;
+}
+
+.has-text-weight-bold {
+    box-shadow: 0ch !important;
+    background-color:black !important;
+    opacity: 0.8;
+   
+}
