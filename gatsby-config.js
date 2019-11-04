@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'blog de harut',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      '大学生が書いている旅行ブログです。　国内外を問わずいろんなnジャンルの記事を書いてます。少しでも皆さんのお役に立てれば嬉しいです！ / A blog page hosted by a university student in Japan. No matter what kind of genre of trip, I write a variety of articles. If you have time, plz take a look at this page!',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
