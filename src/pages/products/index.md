@@ -5,10 +5,7 @@ title: A blog of trip
 image: /img/jumbotron.jpg
 heading:  A blog of trip 
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+ This blog is mainly oriented for japanese, but if you interested in traveling, why don't you take a look at this page? 
 intro:
   blurbs:
     - image: /img/coffee.png
