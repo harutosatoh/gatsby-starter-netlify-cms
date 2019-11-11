@@ -14,9 +14,9 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
           <div className="column is-10 is-offset-1">
             <div className="section">
               <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
-                {title}
+                ブログ紹介
               </h2>
-              <PageContent className="content" content={content} />
+                <p>こんにちは！このブログでは大学生である筆者が旅行についてなんとなく書いています。国内外を問わず幅広く書いていくつもりですので、ぜひ見ていってください！</p>
             </div>
           </div>
         </div>
