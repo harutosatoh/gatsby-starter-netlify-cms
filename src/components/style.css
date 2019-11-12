@@ -24,3 +24,10 @@ body{
     background-color: #fff !important;
     color:black;
 }
+
+.content{
+    text-align:center;
+}
+.btn{
+    /* text-align:center; */
+}

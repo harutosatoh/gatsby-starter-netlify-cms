@@ -70,7 +70,9 @@ export const IndexPageTemplate = ({
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <div className="content">
-                
+                <div className="btn">
+                  Welcome to my blog!
+                </div>
                 
                 
                 <div className="column is-12">

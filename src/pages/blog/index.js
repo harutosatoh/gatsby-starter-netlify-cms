@@ -3,6 +3,7 @@ import React from 'react'
 import Layout from '../../components/Layout'
 import BlogRoll from '../../components/BlogRoll'
 
+
 export default class BlogIndexPage extends React.Component {
   render() {
     return (
@@ -13,6 +14,7 @@ export default class BlogIndexPage extends React.Component {
             backgroundImage: `url('/img/chalet-4543058_1920.jpg')`,
           }}
         >
+          <p>sample text</p>
           <h1
             className="has-text-weight-bold is-size-1"
             style={{
@@ -21,6 +23,7 @@ export default class BlogIndexPage extends React.Component {
               color: 'white',
               padding: '1rem',
             }}
+            
           >
             Latest Stories
           </h1>
