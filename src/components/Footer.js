@@ -6,9 +6,15 @@ import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
 import vimeo from '../img/social/vimeo.svg'
+import React, { useState } from 'react';
 
 const Footer = class extends React.Component {
+  
+
+  
   render() {
+   
+   
     return (
       <footer className="footer has-background-black has-text-white-ter">
         <div className="content has-text-centered">
@@ -19,6 +25,7 @@ const Footer = class extends React.Component {
             <div className="columns">
               <div className="column is-4">
                 <section className="menu">
+                 
                   <ul className="menu-list">
                     <li>
                       <Link to="/" className="navbar-item">
